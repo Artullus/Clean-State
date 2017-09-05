@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Artullus
+Copyright (c) 2017 Artellus.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,72 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+Exception of code segments from Clean States License:
+	If any original author of code or programs wishes contacts me asking for their content to removed or to clarified their license
+I will be willing to ablige removal of their content from the script or updating the license information. 
+
+As "Clean State" uses the function “Get-InstalledSoftware.ps1” to collect the Globally Unique Identifier of installed Software to call said software specific un-installation.
+	Functions Author is found by the online handle “Techibee” 
+Source of Function “Get-InstalledSoftware” can be found at
+(https://github.com/techibee/PowerShell/blob/master/Get-InstalledSoftware.ps1)
+Details about function usage instructions can be found at
+(http://techibee.com/powershell/powershell-script-to-query-softwares-installed-on-remote-computer/1389)
+Author of the function “Get-InstalledSoftware” has publicly expressed no Copyrights or license and as the function as of 2017-09-02.
+
+Section of code labeled “Gui concluion intergration” 
+	Is based off of information on: (#blog.netnerds.net) Author: Chrissy LeMaire (https://blog.netnerds.net/2016/01/showdialog-sucks-use-applicationcontexts-instead/)
+Functions “Set-HideConsole” and "close-Winform" are based off of information in preceding article.
+
+
+Clean state function “Switch-console” inspired by code from:
+(http://powershell.cz/2013/04/04/hide-and-show-console-window-from-gui/ - Posted by nohandle )
+code was modified into a single switching function
+nohandles commits on the code “The p/Invoke calls required can be found in numerous web resources and also in Poweshell in Action book.”
+other sorces of this information:
+https://docs.microsoft.com/en-us/windows/console/getconsolewindow, https://msdn.microsoft.com/en-us/library/windows/desktop/ms633548(v=vs.85).aspx
+
+
+
+
+As "Clean State" would Use “7za.exe” for file extraction purposes
+	7-Zip is licensed under the GNU LGPL license
+Source code can be found at: www.7-zip.org
+Further details bout the 7-zip licensing can be found in the accompanying file named "7za-license.txt" in the accompanying folder .\Licenses
+and at (www.7-zip.org), (http://www.7-zip.org/license.txt), (http://www.7-zip.org/faq.html)
+
+As "Clean State" can distributes “DelProf2.exe” to end users Machines.
+	Delprof2.exe is a Copyright of Helge Klein
+Helge Klein has designated that “Delprof2 is free for personal and commercial use”
+this software can be found on the developers page at 
+(https://helgeklein.com/free-tools/delprof2-user-profile-deletion-tool/)
+Further details about his changes to Commercial use can be found at
+(https://helgeklein.com/blog/2017/01/delprof2-setacl-studio-free-commercial-use/)
+Contact information about Copyright or software License can be requested from (info@helgeklein.com) 
+
+As "Clean State" can distributes the software “Mozilla Firefox” to end users Machines.
+	Firefox is made available under the terms of the Mozilla Public License. This means you may use, copy and distribute Firefox to others. You are also welcome to modify the source code of Firefox as you want to meet your needs. The Mozilla Public License also gives you the right to distribute your modified versions.
+Further information about software’s license can be found at: (https://www.mozilla.org/en-US/about/legal/terms/firefox/)
+and details about the Mozilla Public License can be found at:
+(https://www.mozilla.org/en-US/MPL/)
+
+As "Clean State" can distributes the software “libreoffice” to end users Machines.
+	LibreOffice is Free Software. LibreOffice is made available subject to the terms of the Mozilla Public License v2.0. It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software which differs from version to version under a large variety of other Open Source licenses. 
+Mozilla Public License Version 2.0
+3.2. Distribution of Executable Form
+If You distribute Covered Software in Executable Form then:
+1. such Covered Software must also be made available in Source Code Form, as described in Section 3.1, and You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means in a timely manner, at a charge no more than the cost of distribution to the recipient; and
+2. You may distribute such Executable Form under the terms of this License, or sublicense it under different terms, provided that the license for the Executable Form does not attempt to limit or alter the recipients’ rights in the Source Code Form under this License.
+Full License information is Provided in the accompanying folder .\Licenses\LibreOffice License
+Fill License can also be found at (http://www.libreoffice.org/about-us/licenses/)
+Source Code is available from the site: (http://www.libreoffice.org/download/download/) under the section SDK and Sourcecode
+
+As "Clean State" can distributes the software “Adobe Reader DC” to end users Machines.
+	You as the user of the clean state script will need to apply for the adobe disturbution license agrement if you wish to include and install said software to other computers.
+	
+As "Clean State" is tempararly useing a icon converted to base64 made by Freepik from www.flaticon.com
+Icon made by Freepik from www.flaticon.com 
+which uses the Flation Basic License found:
+(https://file000.flaticon.com/downloads/license/license.pdf)
