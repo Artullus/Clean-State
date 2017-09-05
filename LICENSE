@@ -24,7 +24,7 @@ SOFTWARE.
 
 Exception of code segments from Clean States License:
 	If any original author of code or programs wishes contacts me asking for their content to removed or to clarified their license
-I will be willing to ablige removal of their content from the script or updating the license information. 
+I will be willing to oblige removal of their content from the script or updating the license information. 
 
 As "Clean State" uses the function “Get-InstalledSoftware.ps1” to collect the Globally Unique Identifier of installed Software to call said software specific un-installation.
 	Functions Author is found by the online handle “Techibee” 
@@ -82,9 +82,9 @@ Fill License can also be found at (http://www.libreoffice.org/about-us/licenses/
 Source Code is available from the site: (http://www.libreoffice.org/download/download/) under the section SDK and Sourcecode
 
 As "Clean State" can distributes the software “Adobe Reader DC” to end users Machines.
-	You as the user of the clean state script will need to apply for the adobe disturbution license agrement if you wish to include and install said software to other computers.
+	You as the user of the clean state script will need to apply for the adobe distribution license agreement if you wish to include and install said software to other computers.
 	
-As "Clean State" is tempararly useing a icon converted to base64 made by Freepik from www.flaticon.com
+As "Clean State" is temporarily useing an icon converted to base64 made by Freepik from www.flaticon.com
 Icon made by Freepik from www.flaticon.com 
 which uses the Flation Basic License found:
 (https://file000.flaticon.com/downloads/license/license.pdf)
